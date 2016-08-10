@@ -512,3 +512,5 @@ You can run all the tests across all the Rails versions by running `rake apprais
 ## License
 
 See [LICENSE](https://github.com/mbleigh/acts-as-taggable-on/blob/master/LICENSE.md)
+=======
+# acts-as-taggable-on-searchable
